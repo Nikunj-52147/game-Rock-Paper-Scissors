@@ -2,9 +2,13 @@
 
 A simple Rock-Paper-Scissors game built using HTML, CSS, and JavaScript. This classic game allows users to play against the computer, with a clean UI design.
 
-## 🎮 Demo
+## 🎮 Demo Imag
 
 ![Game Demo](./demo.png)
+
+## 🚀 Live Demo
+
+🔗 [Click here to play](https://nikunj-52147.github.io/game-Rock-Paper-Scissors/)
 
 ## 🛠️ Technologies Used
 
@@ -37,8 +41,10 @@ A simple Rock-Paper-Scissors game built using HTML, CSS, and JavaScript. This cl
   - Scissors beats Paper
 - Score updates based on the outcome.
 
-## 📦 How to Run Locally
+## 🧑‍💻 Author
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Nikunj-52147/game-Rock-Paper-Scissors.git
+- **Nikunj** – [GitHub Profile](https://github.com/Nikunj-52147)
+
+---
+
+**Have fun playing! 🕹️*
