@@ -2,7 +2,7 @@
 
 A simple Rock-Paper-Scissors game built using HTML, CSS, and JavaScript. This classic game allows users to play against the computer, with a clean UI design.
 
-## 🎮 Demo Imag
+## 🎮 Demo
 
 ![Game Demo](./demo.png)
 
@@ -46,5 +46,4 @@ A simple Rock-Paper-Scissors game built using HTML, CSS, and JavaScript. This cl
 - **Nikunj** – [GitHub Profile](https://github.com/Nikunj-52147)
 
 ---
-
-**Have fun playing! 🕹️*
+**Have fun playing! 🕹️**
